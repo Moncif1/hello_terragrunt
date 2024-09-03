@@ -1,0 +1,9 @@
+.terraform.lock.*
+.terraform/
+terraform.tfstate.*
+
+.terragrunt-cache/
+.terragrunt-*
+terragrunt-debug.tfvars.json
+
+
