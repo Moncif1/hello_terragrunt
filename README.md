@@ -94,7 +94,7 @@ The inputs used for the Terraform modules are a combination of common, environme
 
 ### References
 
-* [Terragrunt Documentation](doc:https://terragrunt.gruntwork.io/docs/)
-* [Terraform Registry](doc:https://registry.terraform.io/)
-* [Terraform Documentation](doc:https://developer.hashicorp.com/terraform/docs)
-* [Google Cloud SDK](doc:https://cloud.google.com/sdk/docs/install)
+* [Terragrunt Documentation](https://terragrunt.gruntwork.io/docs/)
+* [Terraform Registry](https://registry.terraform.io/)
+* [Terraform Documentation](https://developer.hashicorp.com/terraform/docs)
+* [Google Cloud SDK](https://cloud.google.com/sdk/docs/install)
